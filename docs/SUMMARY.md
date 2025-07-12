@@ -7,6 +7,7 @@
 - [Introduction](dev/README.md)
 - [Setup Environment](dev/setup.md)
 - [Build Packages](dev/build-packages.md)
+- [Windows Installer Guide](dev/windows-installer.md)
 - [Build Image](dev/build-image.md)
 - [Build from Sources](dev/build-sources.md)
 - [Run from Sources](dev/run-agent.md)
